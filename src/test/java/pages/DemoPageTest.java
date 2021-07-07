@@ -1,4 +1,4 @@
-package pagesTest;
+package pages;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
